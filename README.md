@@ -1,3 +1,6 @@
-# DDR A DB Manager
+# DDR A Database Manager
 
-manage songs in ddr a/a20
+License: GPLv3 I guess, sows only, no OOC or 1cc people plz
+
+Special thanks:
+- Too many people to list
